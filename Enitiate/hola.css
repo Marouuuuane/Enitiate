@@ -1,0 +1,41 @@
+body{
+    background-color: background: #abbaab; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #abbaab, #ffffff); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #abbaab, #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+}
+h1{
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 35px;
+	text-decoration: overline;
+	text-transform: capitalize;
+	letter-spacing: 2px;
+	text-align: center;
+}
+#grad1 {
+    background: red; 
+    background: linear-gradient(#ee9ca7, #ffdde1); /
+}
+h1:hover{
+	color:#990000;
+}
+.SOS{
+	font-family: 'Raleway', sans-serif;
+}
+.SIS{
+	font-size: italic;
+}
+p{
+	line-height: 1;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 20px;
+	text-indent: 50px;
+    text-align: justify;
+}
+h3,h4{
+	justify-content;
+	text-decoration:underline;
+	color: #9b0000;
+	text-shadow: 0 0 4px #DC2424, 0 0 5px #4A569D;
+}
+ol li{
+	color: #330000
