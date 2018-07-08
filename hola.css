@@ -1,9 +1,30 @@
-h1{
-	font-family: 'Pacifico', cursive;color: red
+body{
+	background-image: url("https://www.walldevil.com/wallpapers/a56/mountain-dusk-river.jpg");
 }
 h1{
-	 text-align: center;
+	font-family: 'Kanit', sans-serif;
+	text-align: center;
+	font-size: 100px;
+	color: white;
 }
-.SOS{
-	font-family: 'Pacifico', cursive;
+h2{
+	text-align: center;
+	color:	;
+	font-family: 'Gaegu', cursive;
+}
+.name{
+	text-align: center;
+	color: white;
+	letter-spacing: 3px;
+	margin: 100px;
+}
+.hoi{
+	border:2px solid white;
+	background: white; opacity: 0.7;
+}
+.hy{
+	font-family: 'Gaegu', cursive;
+	text-align: center;
+	color: black;
+	letter-spacing: 2px;
 }
