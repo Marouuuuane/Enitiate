@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+}
+
+body {
+    background-image: url("https://cdn.allwallpaper.in/wallpapers/1920x1080/15546/black-and-white-nature-photography-1920x1080-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} 
+
+h1{
+	text-align: center;
+	padding: 120px;
+	color: white;
+}
